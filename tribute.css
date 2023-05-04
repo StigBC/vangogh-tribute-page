@@ -4,3 +4,7 @@
     height: auto;
     padding: auto;
   }
+
+.comp-table-image {
+  max-width: 200px;  
+}
